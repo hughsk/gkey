@@ -1,7 +1,7 @@
 # gkey #
 
 A list of human-readable names for Browser-friendly gamepads. Currently only
-supports generic/XBox-like controllers, but if you have the opportunity to test
+supports generic/Xbox-like controllers, but if you have the opportunity to test
 with others then submit a pull request and I'll merge it in!
 
 ## Installation ##
