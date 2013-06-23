@@ -1,0 +1,21 @@
+{
+  "name": "gkey",
+  "version": "0.0.0",
+  "description": "An index of gamepad input mappings for controllers using the HTML5 gamepad API",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/gkey.git"
+  },
+  "keywords": [
+    "gamepad",
+    "api",
+    "browserify",
+    "html5",
+    "input",
+    "control",
+    "index"
+  ],
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughskennedy.com/)",
+  "license": "MIT"
+}
